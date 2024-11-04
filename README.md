@@ -1,1 +1,1 @@
-# University-Starter-Pack-Website
+University-Starter-Pack-Website
